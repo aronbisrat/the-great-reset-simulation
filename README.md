@@ -36,3 +36,6 @@ Clone the repo and run the notebook:
 git clone https://github.com/aronbisrat/the-great-reset-simulation
 cd the-great-reset-simulation
 jupyter notebook Debt_Reset_Simulation.ipynb
+```
+
+
