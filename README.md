@@ -8,8 +8,8 @@ What if the ultra-rich voluntarily forgave **all personal, national, and institu
 
 ## 📊 Dataset & Simulation
 
-- Data is synthetically generated for demo purposes  
-- Simulation models debt relief impact on multiple social tiers  
+- Data is synthetically generated for demonstration
+- Simulation models debt relief impact on multiple social tiers
 - Visualizations track pre- and post-reset conditions
 
 ## 🛠️ Technologies Used
