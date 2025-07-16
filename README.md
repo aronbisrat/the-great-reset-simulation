@@ -40,10 +40,9 @@ jupyter notebook Debt_Reset_Simulation.ipynb
 
 This project was inspired by discussions around the World Economic Forum’s "Great Reset" concept, and by real-world concerns about global debt, inequality, and the power dynamics of wealth. It aims to explore a radical scenario through data-driven simulation and storytelling.
 
-## 👤 Author
-
 **Aron Bisrat**  
 🔗 [Kaggle](https://www.kaggle.com/aronbisrat) | [GitHub](https://github.com/aronbisrat) | [LinkedIn](https://www.linkedin.com/in/aron-bisrat-173b7232/)
+
 
 
 ## 📄 License
