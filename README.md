@@ -31,7 +31,6 @@ A short speculative story is included to contextualize the model in a near-futur
 ## 🚀 How to Use
 
 Clone the repo and run the notebook:
-
 ```bash
 git clone https://github.com/aronbisrat/the-great-reset-simulation
 cd the-great-reset-simulation
